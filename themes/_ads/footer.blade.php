@@ -11,3 +11,20 @@ hs.src = ('//s10.histats.com/js15_as.js');
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4679238&101" alt="" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+<!-- Default Statcounter code for native (rabu)
+https://rabu.fattan.site/ -->
+<script type="text/javascript">
+var sc_project=12773990; 
+var sc_invisible=1; 
+var sc_security="a15ec67f"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12773990/0/a15ec67f/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
