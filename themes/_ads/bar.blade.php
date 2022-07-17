@@ -13,8 +13,8 @@
 </style>
 
 <div id='topbar'>
-	<p>Write an awesome ad copy here. 
+	<p>have you eaten today?. 
 	  	<br>
-		<a href="#your-offer-url" target="_blank">CTA Link &rarr;</a>
+		<a href="https://partieseclipse.com/vjmc94sys?key=38ffac292d93877558d0aa6e73230fd5" target="_blank">More Cool Stuff Here &rarr;</a>
 	</p>
 </div> -->

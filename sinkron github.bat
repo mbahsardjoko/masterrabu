@@ -4,4 +4,3 @@ git add .
 git commit -m "%datestr%"
 git push origin master
 title alhamdulillah selesai..
-pause > nul
