@@ -65,5 +65,9 @@ $redirect = new Redirector(new UrlGenerator($router->getRoutes(), $request));
 // Dispatch the request through the router
 $response = $router->dispatch($request);
 
+if (str_contains($request->getRequestUri(), "sitemap.xml")) {
+    $response->headers->set("Content-Type", "text/xml");
+}
+
 // Send the response back to the browser
 $response->send();
