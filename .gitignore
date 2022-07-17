@@ -1,6 +1,1 @@
-/cache/*.php
-/cache/@
-/vendor
-*.sqlite
-.DS_Store
-shuriken-native-*.zip
+.gitignore
