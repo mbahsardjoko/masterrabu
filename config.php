@@ -3,9 +3,9 @@
 return [
     "theme" => "random",
     "site" => [
-        "name" => "My Awesome Site",
-        "description" => "Change this at config.php",
-        "url" => "domain.com",
+        "name" => "Attorney",
+        "description" => "Attorney Lawyer",
+        "url" => "rabu.fattan.site",
         "pages" => ["dmca", "contact", "privacy-policy", "copyright"],
     ],
     "cache" => 300,
