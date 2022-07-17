@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
 	#topbar{  background:#ddd;  width:100%;  text-align:center;  color:#333;  padding:5px;  overflow:hidden;  height:89px;  z-index:1000;  font-family:Georgia;  font-size:17px;  line-height:30px;  position:fixed;  bottom:0;  left:0;  border-top:3px solid #26ADE4;  box-shadow:0 1px 5px rgba(0,0,0,.7);
 	}
 
@@ -17,4 +17,4 @@
 	  	<br>
 		<a href="https://partieseclipse.com/vjmc94sys?key=38ffac292d93877558d0aa6e73230fd5" target="_blank">More Cool Stuff Here &rarr;</a>
 	</p>
-</div> -->
+</div>
